@@ -3,7 +3,7 @@ ShortURI
 
 Change the number to a ShortString
 
-input idx -> ShortString
+Input idx -> Output ShortString
 
 0 -> A
 
