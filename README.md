@@ -13,4 +13,4 @@ input idx -> ShortString
 
 9223372036854775807->AKosRATznNdH
 
-if 9223372036854775807 < ? xD
+if 9223372036854775807 < input = xD
