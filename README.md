@@ -3,11 +3,11 @@ ShortURI
 
 Change the number to a ShortString
 
-idx -> ShortString
-0 -> A
-52 ->AA
-....
-9223372036854775807->AKosRATznNdH
-
-MAX = AKosRATznNdH;
-if 9223372036854775807 < ? xD
+idx -> ShortString</br>
+0 -> A</br>
+52 ->AA</br>
+....</br>
+9223372036854775807->AKosRATznNdH</br>
+</br>
+MAX = AKosRATznNdH;</br>
+if 9223372036854775807 < ? xD</br>
