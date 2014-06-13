@@ -3,8 +3,10 @@ ShortURI
 
 Change the number to a ShortString
 
-idx -> ShortString \n
-0 -> A \n
+idx -> ShortString
+
+0 -> A
+
 52 ->AA
 ....
 9223372036854775807->AKosRATznNdH
