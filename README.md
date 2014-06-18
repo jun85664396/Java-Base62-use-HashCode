@@ -14,9 +14,11 @@ Input idx -> Output ShortString
 9223372036854775807->AKosRATznNdH
 
 if 9223372036854775807 < input = xD
-========
+
+
 
 UPDATE !!
+========
 
 Before 0 -> A
        9223372036854775807->AKosRATznNdH
