@@ -21,11 +21,15 @@ UPDATE !!
 ========
 
 Before 0 -> A
+
        9223372036854775807->AKosRATznNdH
+       
 (A~Z a-z)
 
 After 0 -> 0
+
       9223372036854775807->9yK7lzX47l7
+
 (0~9 A~Z a-z)      
 
 
