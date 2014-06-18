@@ -1,4 +1,4 @@
-ShortURI
+String Converter
 ========
 
 Change the number to a ShortString
