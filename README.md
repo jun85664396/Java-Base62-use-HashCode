@@ -1,7 +1,7 @@
 String Converter
 ========
 
-Change the number to a ShortString
+Change the number to a ShortString. application example : ShortURL
 
 Input idx -> Output ShortString
 
