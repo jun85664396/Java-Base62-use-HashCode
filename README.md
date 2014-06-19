@@ -17,7 +17,7 @@ if 9223372036854775807 < input = xD
 
 
 
-UPDATE !!
+UPDATE !! 1.0
 ========
 
 Before 
@@ -36,4 +36,7 @@ After
 
 (0~9 A~Z a-z)      
 
+UPDATE !! 1.1
+========
 
+Add Decoding
