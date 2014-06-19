@@ -33,7 +33,7 @@ public class StringConverter {
 				output += decode(res.substring(i - 1, i));
 			else {
 				output += (Math.pow(62, res.length() - i))
-						* (decode(res.substring(i - 1, i)) + 1);
+					* (decode(res.substring(i - 1, i)) + 1);
 			}
 		}
 		return output;
