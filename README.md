@@ -36,6 +36,12 @@ After
 
 (0~9 A~Z a-z)      
 
+etc
+       
+       base62 
+       
+       9223372036854775807->4uS6o1vD1VY4Ob9GJewqu5FRwt
+       
 UPDATE !! 1.1
 ========
 
