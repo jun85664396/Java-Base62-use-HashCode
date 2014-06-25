@@ -3,11 +3,11 @@ String Converter 1.0
 
 Change the number to a ShortString.
 
-       example
+example
        
-       git : https://github.com/jun85664396/ShortenURL
+git : http://github.com/jun85664396/ShortenURL
        
-       web : suw.kr
+web : http://suw.kr
 
 Input idx -> Output ShortString
 
