@@ -1,7 +1,13 @@
-String Converter
+String Converter 1.0
 ========
 
-Change the number to a ShortString. application example : ShortURL
+Change the number to a ShortString.
+
+       example
+       
+       git : https://github.com/jun85664396/ShortenURL
+       
+       web : suw.kr
 
 Input idx -> Output ShortString
 
@@ -11,22 +17,20 @@ Input idx -> Output ShortString
 
 ....
 
-       9223372036854775807->AKosRATznNdH
-
-if 9223372036854775807 < input = xD
-
-
-
-UPDATE !! 1.0
-========
-
-Before 
        
        0 -> A
        
        9223372036854775807->AKosRATznNdH
        
-(A~Z a-z)
+       (A~Z a-z)
+       
+if 9223372036854775807 < input = xD (Exception)
+
+
+
+1.1
+========
+
 
 After 
        
@@ -34,15 +38,10 @@ After
 
       9223372036854775807->9yK7lzX47l7
 
-(0~9 A~Z a-z)      
+       (0~9 A~Z a-z)      
 
-etc
-       
-       base62 
-       
-       9223372036854775807->4uS6o1vD1VY4Ob9GJewqu5FRwt
-       
-UPDATE !! 1.1
+
+1.2
 ========
 
 Add Decoding
